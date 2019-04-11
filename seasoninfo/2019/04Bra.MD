@@ -10,7 +10,7 @@ published: true
     <th>Pos</th>
     <th>No.</th>
     <th>Driver</th>
-    <th>Vehicle</th>
+    <th>Team</th>
     <th>Laps</th>
     <th>Time/Retired</th>
     <th>Best lap</th>
